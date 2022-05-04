@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS buisness;
+DROP DATABASE IF EXISTS company;
 
-CREATE DATABASE buisness;
-USE buisness;
+CREATE DATABASE company;
+USE company;

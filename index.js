@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const db = require("./connection/connect.js");
+const db = require("./connection/connect");
 
 db.connect((err) => {
     if (err) throw err;

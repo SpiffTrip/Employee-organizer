@@ -285,10 +285,11 @@ function updateEmployee(answers) {
     `;
     const params = [answers.updateEmployeeRole, answers.chooseEmployee];
 
-    db.query(sqlString, params, (err, row) => {
+   
+    db.query(sqlString, (err, rows) => {
         if (err) console.log(err);
-    });
-
+        console.table(rows);
+      });
 
     promptUser();
 }

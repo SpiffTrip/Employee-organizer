@@ -5,4 +5,5 @@ I WANT to be able to view and manage the departments, roles, and employees in my
 SO THAT I can organize and plan my business!
 
 
-# (NOT WORKING)
+##WALKTHROUGH VIDEO
+https://drive.google.com/file/d/1NL_FU4QAQYaMcaSSw5mDVvyxLi9Wq-5d/view?usp=sharing
